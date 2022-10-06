@@ -1,0 +1,22 @@
+### Junjie Ye
+[![Personal Website](https://img.shields.io/badge/Web-JunjieYe-green)](https://jayye99.github.io/) [![Email](https://img.shields.io/badge/-junjie.ye9901@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:junjie.ye9901@gmail.com)](mailto:junjie.ye9901@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=uy-TfXgAAAAJ) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayYe99/JayYe99) [![GitHub Followers](https://img.shields.io/github/followers/JayYe99?style=social)](https://github.com/JayYe99)
+
+:rocket: Interested in Visual Perception for Robotics, Visual localization, Domain Adaptation, and Visual Object Tracking.
+
+:mortar_board: Now 3rd year Master's student in Tongji, where I obtained my bachelor's degree.
+
+:beers: [ETH robotics student fellowship 2022](https://center-for-robotics.ethz.ch/education/robotics-student-fellowship/2022-Robotics-Student-Fellows.html)
+
+:boat: Previously visiting student at THU | Previously research intern at JD.COM
+
+
+:fire: I'm currently looking for a PhD position in 2023. Feel free to drop me an email.
+
+🌱 **My Repositories**
+|   Venue   |     Title     |    Badge  |
+|:---:|:------:|             :---------------------------                     |
+|  CVPR 2022  |   ["Unsupervised Domain Adaptation for Nighttime Aerial Tracking"](https://github.com/vision4robotics/UDAT)   | [![PDF](https://img.shields.io/badge/PDF-Paper-<COLOR>.svg)](https://openaccess.thecvf.com/content/CVPR2022/html/Ye_Unsupervised_Domain_Adaptation_for_Nighttime_Aerial_Tracking_CVPR_2022_paper.html)[![GitHub Stars](https://img.shields.io/github/stars/vision4robotics/UDAT?style=social)](https://github.com/vision4robotics/UDAT)[![GitHub Forks](https://img.shields.io/github/forks/vision4robotics/UDAT?style=social)](https://github.com/vision4robotics/UDAT)![visitors](https://visitor-badge.glitch.me/badge?page_id=vision4robotics/UDAT) |
+|  RAL with ICRA 2022  |   ["Tracker Meets Night: A Transformer Enhancer for UAV Tracking"](https://github.com/vision4robotics/SCT)   | [![arXiv](https://img.shields.io/badge/PDF-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9696362)[![GitHub Stars](https://img.shields.io/github/stars/vision4robotics/SCT?style=social)](https://github.com/vision4robotics/SCT)[![GitHub Forks](https://img.shields.io/github/forks/vision4robotics/SCT?style=social)](https://github.com/vision4robotics/SCT)![visitors](https://visitor-badge.glitch.me/badge?page_id=vision4robotics/SCT) |
+| IROS 2022 |   ["DarkLighter: Light up the Darkness for UAV Tracking"](https://github.com/vision4robotics/DarkLighter)   | [![arXiv](https://img.shields.io/badge/PDF-Paper-<COLOR>.svg)](https://arxiv.org/abs/2107.14389)[![GitHub Stars](https://img.shields.io/github/stars/vision4robotics/DarkLighter?style=social)](https://github.com/vision4robotics/DarkLighter)[![GitHub Forks](https://img.shields.io/github/forks/vision4robotics/DarkLighter?style=social)](https://github.com/vision4robotics/DarkLighter)![visitors](https://visitor-badge.glitch.me/badge?page_id=vision4robotics/DarkLighter) |
+|  IEEE T-IE (IF: 8.162)  |   ["Multi-Regularized Correlation Filter for UAV Tracking and Self-Localization"](https://github.com/vision4robotics/MRCF-Tracker)   | [![arXiv](https://img.shields.io/badge/PDF-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9457090)[![GitHub Stars](https://img.shields.io/github/stars/vision4robotics/MRCF-Tracker?style=social)](https://github.com/vision4robotics/MRCF-Tracker)[![GitHub Forks](https://img.shields.io/github/forks/vision4robotics/MRCF-Tracker?style=social)](https://github.com/vision4robotics/MRCF-Tracker)![visitors](https://visitor-badge.glitch.me/badge?page_id=vision4robotics/MRCF-Tracker) |
+|  IEEE T-GRS (IF: 8.125)  | ["Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking"](https://github.com/vision4robotics/IBRI-tracker) | [![arXiv](https://img.shields.io/badge/PDF-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/document/9239349)[![GitHub Stars](https://img.shields.io/github/stars/vision4robotics/IBRI-tracker?style=social)](https://github.com/vision4robotics/IBRI-tracker)[![GitHub Forks](https://img.shields.io/github/forks/vision4robotics/IBRI-tracker?style=social)](https://github.com/vision4robotics/IBRI-tracker)![visitors](https://visitor-badge.glitch.me/badge?page_id=vision4robotics/IBRI-tracker) |
